@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileCompression">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\FileCompression.sln">
+</Property><Property Name="Date" Value="2011年6月15日">
+</Property><Property Name="Time" Value="16:49:15">
+</Property></Properties><Event ErrorLevel="0" Project="FileCompression" Source="FileCompression.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\FileCompression.csproj">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="MainForm.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="MainForm.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Program.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Properties\Settings.settings" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="MainForm.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\CompressionHttpHandler\FileCompression\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="FileCompression.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FileCompression" Source="FileCompression.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileCompression" Source="FileCompression.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
